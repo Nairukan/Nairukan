@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nairukan
-- 👀 I’m interested in C++, Qt, WinAPI, Java
-- 🌱 I’m currently learning Java
-- 💞️ I want to cooperate with a company focused on the development of computer programs
+- 👀 I’m interested in Develop of desktop applications, I'm also very interested in developing tools to simplify writing programs, to think through every detail of projects and their interaction
+- 🌱 I’m currently learning C++, Qt, Delphi, WinAPI, Gdi+ and will never stop learn new technologies :)
+- 💞️ I want to cooperate with a company focused on the desktop applications
 - 📫 How to reach me nikita_koren2002@gmail.com
 
 <!---

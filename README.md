@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nairukan
 - 👀 I’m interested in Develop of desktop applications, I'm also very interested in developing tools to simplify writing programs, to think through every detail of projects and their interaction
-- 🌱 I’m currently learning C++, Qt, Delphi, WinAPI, Gdi+, CLI|C++ and will never stop learn new technologies :)
+- 🌱 I’m currently learning C++, Qt, Delphi, WinAPI, Gdi+, CLI|C++, SQL and will never stop learn new technologies :)
 - 💞️ I want to cooperate with a company focused on the desktop applications
 - 📫 How to reach me nikita_koren2002@gmail.com
 
